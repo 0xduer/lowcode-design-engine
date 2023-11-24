@@ -1,16 +1,16 @@
 # Release Notes
 
-### New Features ✨
+### New Features 🎉
 
 - 基础框架设计
 
-### Bug Fixes 🐛
+### Bug Fixes 🐞
 
-### Other Improvements 🛠
+### Other Improvements 👀
 
 ## v0.1.0 (2021-01-01)
 
-### New Features ✨
+### New Features 🎉
 
 - version 版本规则
     - `v`：版本号前缀
