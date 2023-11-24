@@ -4,6 +4,8 @@
 
 ### New Features ✨
 
+- 基础框架设计
+
 ### Bug Fixes 🐛
 
 ### Other Improvements 🛠
